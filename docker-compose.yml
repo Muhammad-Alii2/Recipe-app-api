@@ -29,5 +29,5 @@ services:
       - POSTGRES_USER=admin
       - POSTGRES_PASSWORD=pass123
 
-volumes:
+volumes: 
   dev-db-data:
